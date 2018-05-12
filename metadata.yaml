@@ -1,0 +1,29 @@
+_repo: The-Mysterious-Murder-of-Pearl-Bryanor--the-Headless-Horror._29569
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Unknown
+    gutenberg_agent_id: '49'
+    url: http://www.gutenberg.org/2009/agents/49
+    wikipedia: http://www.gutenberg.org/browse/authors/a#a216
+description: ''
+gutenberg_issued: '2009-08-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29569'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Walling, Alonzo, -1897 -- Trials, litigation, etc.'
+- !lcsh 'Murder -- Kentucky -- Fort Thomas'
+- !lcc 'HV'
+- !lcsh 'Jackson, Scott, -1897 -- Trials, litigation, etc.'
+- !lcsh 'Bryan, Pearl, -1896'
+- !lcsh 'Trials (Murder) -- Kentucky -- Campbell County'
+title: 'The Mysterious Murder of Pearl Bryan, or: the Headless Horror.'
+url: http://www.gutenberg.org/ebooks/29569
