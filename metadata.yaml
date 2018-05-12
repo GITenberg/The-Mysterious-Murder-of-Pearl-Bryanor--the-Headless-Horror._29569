@@ -10,6 +10,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/49
     wikipedia: http://www.gutenberg.org/browse/authors/a#a216
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/29569#The-Mysterious-Murder-of-Pearl-Bryanor--the-Headless-Horror.
 gutenberg_issued: '2009-08-02'
 gutenberg_type: Text
 identifiers:
